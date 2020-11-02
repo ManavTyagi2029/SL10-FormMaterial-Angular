@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #0AA5CC;
+  background: -webkit-linear-gradient(right, #0AA5CC, #2840BB);
+  background: -moz-linear-gradient(right, #0AA5CC, #2840BB);
+  background: linear-gradient(to left, #d0bae6, #883bd1);
+}
+
+.box {
+  margin: 1% 30%;
+  padding: 2% 8%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  background-color: white;
+}
